@@ -1,4 +1,4 @@
-### Figure 1
+### Figure 1. Let's generate Figure 1 in the main text.
 
 
 
@@ -110,7 +110,7 @@ ggp_statsig <- tbl_statsig_by_diff %>%
 
 
 
-### Figures A1 and A2. Scenarios 1 and 2
+### Figures A1 and A2. Scenarios 1 and 2. Now let's simulate 10,000 RCTs each for Scenarios 1 and 2, see how their statistical significance results (i.e., p-values) are distributed.
 
 
 ## Simulate RCTs.
